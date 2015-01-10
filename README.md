@@ -1,3 +1,89 @@
+.NET Core Home
+The core repository is the starting point to engage in and learn about the .NET Core stack.
+
+.NET Core Platform
+
+The .NET Core platform is made of several components, which includes the managed compilers, the runtime, the BCL and the application model, such as ASP.NET.
+
+.NET Core Framework
+.NET Compiler Platform ("Roslyn")
+ASP.NET 5
+At present, only a few .NET Core libraries are available on GitHub. The rest of the libraries, including the base runtime, will be added in the coming months.
+
+How to Engage, Contribute and Provide Feedback
+
+All projects accept contributions:
+
+.NET Core Contributing Guide
+.NET Compiler Platform ("Roslyn")
+ASP.NET Contributing Guide
+You are also encouraged to start a discussion by posting on the .NET Foundation Forums or filing an issue in the corresponding GitHub project. See the contributing guides for more details.
+
+.NET Foundation
+
+The .NET Core platform is part of the .NET Foundation.
+
+.NET Core Project
+.NET Compiler Platform ("Roslyn" Project)
+ASP.NET Project
+.NET Core Home
+The core repository is the starting point to engage in and learn about the .NET Core stack.
+
+.NET Core Platform
+
+The .NET Core platform is made of several components, which includes the managed compilers, the runtime, the BCL and the application model, such as ASP.NET.
+
+.NET Core Framework
+.NET Compiler Platform ("Roslyn")
+ASP.NET 5
+At present, only a few .NET Core libraries are available on GitHub. The rest of the libraries, including the base runtime, will be added in the coming months.
+
+How to Engage, Contribute and Provide Feedback
+
+All projects accept contributions:
+
+.NET Core Contributing Guide
+.NET Compiler Platform ("Roslyn")
+ASP.NET Contributing Guide
+You are also encouraged to start a discussion by posting on the .NET Foundation Forums or filing an issue in the corresponding GitHub project. See the contributing guides for more details.
+
+.NET Foundation
+
+The .NET Core platform is part of the .NET Foundation.
+
+.NET Core Project
+.NET Compiler Platform ("Roslyn" Project)
+ASP.NET Project
+.NET Core Home
+The core repository is the starting point to engage in and learn about the .NET Core stack.
+
+.NET Core Platform
+
+The .NET Core platform is made of several components, which includes the managed compilers, the runtime, the BCL and the application model, such as ASP.NET.
+
+.NET Core Framework
+.NET Compiler Platform ("Roslyn")
+ASP.NET 5
+At present, only a few .NET Core libraries are available on GitHub. The rest of the libraries, including the base runtime, will be added in the coming months.
+
+How to Engage, Contribute and Provide Feedback
+
+All projects accept contributions:
+
+.NET Core Contributing Guide
+.NET Compiler Platform ("Roslyn")
+ASP.NET Contributing Guide
+You are also encouraged to start a discussion by posting on the .NET Foundation Forums or filing an issue in the corresponding GitHub project. See the contributing guides for more details.
+
+.NET Foundation
+
+The .NET Core platform is part of the .NET Foundation.
+
+.NET Core Project
+.NET Compiler Platform ("Roslyn" Project)
+ASP.NET Project
+
+
 # .NET Core Home
 
 The core repository is the starting point to engage in and learn about the
