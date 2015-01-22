@@ -1,5 +1,4 @@
 
-.NET Core stack.
 
 ## .NET Core Platform
 
