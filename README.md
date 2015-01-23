@@ -1,4 +1,4 @@
-# .NET Core Home
+
 
 The core repository is the starting point to engage in and learn about the
 .NET Core stack.
