@@ -1,7 +1,4 @@
-# .NET Core Home
 
-The core repository is the starting point to engage in and learn about the
-.NET Core stack.
 
 ## .NET Core Platform
 
@@ -28,7 +25,6 @@ You are also encouraged to start a discussion by posting on the
 [.NET Foundation Forums](http://forums.dotnetfoundation.org/) or filing an
 issue in the corresponding GitHub project. See the contributing guides for more
 details.
-
 ## .NET Foundation
 
 The .NET Core platform is part of the [.NET Foundation](http://www.dotnetfoundation.org/projects).
