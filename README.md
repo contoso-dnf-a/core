@@ -8,6 +8,14 @@ The core repository is the starting point to engage in and learn about the
 The .NET Core platform is made of several components, which includes the
 managed compilers, the runtime, the BCL and the application model, such as
 ASP.NET.
+The core repository is the starting point to engage in and learn about the
+.NET Core stack.
+
+## .NET Core Platform
+
+The .NET Core platform is made of several components, which includes the
+managed compilers, the runtime, the BCL and the application model, such as
+ASP.NET.
 
 * [.NET Core Framework](https://github.com/dotnet/corefx)
 * [.NET Compiler Platform ("Roslyn")](https://roslyn.codeplex.com)
