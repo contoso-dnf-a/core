@@ -12,6 +12,15 @@ ASP.NET.
 * [.NET Core Framework](https://github.com/dotnet/corefx)
 * [.NET Compiler Platform ("Roslyn")](https://roslyn.codeplex.com)
 * [ASP.NET 5](https://github.com/aspnet/home)
+* ## .NET Core Platform
+
+The .NET Core platform is made of several components, which includes the
+managed compilers, the runtime, the BCL and the application model, such as
+ASP.NET.
+
+* [.NET Core Framework](https://github.com/dotnet/corefx)
+* [.NET Compiler Platform ("Roslyn")](https://roslyn.codeplex.com)
+* [ASP.NET 5](https://github.com/aspnet/home)
 
 At present, only a few .NET Core libraries are available on GitHub. The rest of
 the libraries, including the base runtime, will be added in the coming months.
