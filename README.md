@@ -55,6 +55,118 @@ the .NET Framework, for both the runtime and framework libraries. For example,
 `String` and `List<T>`. We'll continue improving these components for both .NET
 Core and .NET Framework.
 
+# .NET Core Home
+
+The core repository is the starting point to engage in and learn about the
+.NET Core stack.
+
+## .NET Core Platform
+
+The .NET Core platform is made of several components, which includes the
+managed compilers, the runtime, the BCL and the application model, such as
+ASP.NET.
+
+* [.NET Core Framework](https://github.com/dotnet/corefx)
+* [.NET Compiler Platform ("Roslyn")](https://roslyn.codeplex.com)
+* [ASP.NET 5](https://github.com/aspnet/home)
+
+At present, only a few .NET Core libraries are available on GitHub. The rest of
+the libraries, including the base runtime, will be added in the coming months.
+
+## How to Engage, Contribute and Provide Feedback
+
+All projects accept contributions:
+
+* [.NET Core Contributing Guide](https://github.com/dotnet/corefx/wiki/Contributing)
+* [.NET Compiler Platform ("Roslyn")](https://roslyn.codeplex.com/wikipage?title=How%20to%20Contribute&referringTitle=Home)
+* [ASP.NET Contributing Guide](https://github.com/aspnet/Home/blob/master/CONTRIBUTING.md)
+
+You are also encouraged to start a discussion by posting on the
+[.NET Foundation Forums](http://forums.dotnetfoundation.org/) or filing an
+issue in the corresponding GitHub project. See the contributing guides for more
+details.
+
+## .NET Foundation
+
+The .NET Core platform is part of the [.NET Foundation](http://www.dotnetfoundation.org/projects).
+
+* [.NET Core Project](http://www.dotnetfoundation.org/netcore5)
+* [.NET Compiler Platform ("Roslyn" Project)](http://www.dotnetfoundation.org/dotnet-compiler-platform)
+* [ASP.NET Project](http://www.dotnetfoundation.org/aspnet-vnext)
+
+## License
+
+.NET Core platform projects typically use either the [MIT](LICENSE) or
+[Apache 2](http://www.apache.org/licenses/LICENSE-2.0) licenses for code.
+Some projects license documentation and other forms of content under
+[Creative Commons Attribution 4.0](http://creativecommons.org/licenses/by/4.0/).
+
+See specific projects to understand the license used.
+
+## Understanding the relationship between .NET Core and the .NET Framework
+
+.NET Core and the .NET Framework have (for the most part) a subset-superset
+relationship. .NET Core is named "Core" since it contains the core features from
+the .NET Framework, for both the runtime and framework libraries. For example,
+.NET Core and the .NET Framework share the GC, the JIT and types such as
+`String` and `List<T>`. We'll continue improving these components for both .NET
+Core and .NET Framework.
+# .NET Core Home
+
+The core repository is the starting point to engage in and learn about the
+.NET Core stack.
+
+## .NET Core Platform
+
+The .NET Core platform is made of several components, which includes the
+managed compilers, the runtime, the BCL and the application model, such as
+ASP.NET.
+
+* [.NET Core Framework](https://github.com/dotnet/corefx)
+* [.NET Compiler Platform ("Roslyn")](https://roslyn.codeplex.com)
+* [ASP.NET 5](https://github.com/aspnet/home)
+
+At present, only a few .NET Core libraries are available on GitHub. The rest of
+the libraries, including the base runtime, will be added in the coming months.
+
+## How to Engage, Contribute and Provide Feedback
+
+All projects accept contributions:
+
+* [.NET Core Contributing Guide](https://github.com/dotnet/corefx/wiki/Contributing)
+* [.NET Compiler Platform ("Roslyn")](https://roslyn.codeplex.com/wikipage?title=How%20to%20Contribute&referringTitle=Home)
+* [ASP.NET Contributing Guide](https://github.com/aspnet/Home/blob/master/CONTRIBUTING.md)
+
+You are also encouraged to start a discussion by posting on the
+[.NET Foundation Forums](http://forums.dotnetfoundation.org/) or filing an
+issue in the corresponding GitHub project. See the contributing guides for more
+details.
+
+## .NET Foundation
+
+The .NET Core platform is part of the [.NET Foundation](http://www.dotnetfoundation.org/projects).
+
+* [.NET Core Project](http://www.dotnetfoundation.org/netcore5)
+* [.NET Compiler Platform ("Roslyn" Project)](http://www.dotnetfoundation.org/dotnet-compiler-platform)
+* [ASP.NET Project](http://www.dotnetfoundation.org/aspnet-vnext)
+
+## License
+
+.NET Core platform projects typically use either the [MIT](LICENSE) or
+[Apache 2](http://www.apache.org/licenses/LICENSE-2.0) licenses for code.
+Some projects license documentation and other forms of content under
+[Creative Commons Attribution 4.0](http://creativecommons.org/licenses/by/4.0/).
+
+See specific projects to understand the license used.
+
+## Understanding the relationship between .NET Core and the .NET Framework
+
+.NET Core and the .NET Framework have (for the most part) a subset-superset
+relationship. .NET Core is named "Core" since it contains the core features from
+the .NET Framework, for both the runtime and framework libraries. For example,
+.NET Core and the .NET Framework share the GC, the JIT and types such as
+`String` and `List<T>`. We'll continue improving these components for both .NET
+Core and .NET Framework.
 .NET Core was created so that .NET could be open source, cross platform and be
 used in more resource-constrained environments. We have also published a subset
 of the [.NET Reference Source](https://github.com/Microsoft/referencesource)
