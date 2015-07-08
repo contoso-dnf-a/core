@@ -2,7 +2,10 @@
 
 The core repository is the starting point to engage in and learn about the
 .NET Core stack.
+# .NET Core Home
 
+The core repository is the starting point to engage in and learn about the
+.NET Core stack.
 ## .NET Core Platform
 
 The .NET Core platform is made of several components, which includes the
